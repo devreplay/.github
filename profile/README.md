@@ -1,4 +1,4 @@
-# All of the repositories
+# Repositories
 
 [日本語版](https://github.com/devreplay/.github/blob/main/profile/README_ja.md)
 
