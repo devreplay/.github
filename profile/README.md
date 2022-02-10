@@ -13,7 +13,7 @@
 
 * [Linter Maintainer](https://github.com/devreplay/linter-maintainer): Suitabling ESLint, Pylint, PMD coding conventions
 * [Linter Maintainer for VS Code](https://github.com/devreplay/vscode-linter-maintainer): VS Code UI for Linter Maintainer
-* 
+
 ## Others
 
 * [Source Code Tokenizer](https://github.com/devreplay/source-code-tokenizer): Source code tokenizer that powered by VS Code API
