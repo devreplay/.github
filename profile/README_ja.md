@@ -6,6 +6,7 @@
 * [Devreplay for VS Code](https://github.com/devreplay/vscode-devreplay): devreplayをVS Codeで利用できる拡張機能
 * [Devreplay Language Server](https://github.com/devreplay/devreplay-languageserver): ほかエディタでdevreplayの機能を使うためのLanguage Server実装
 * [Devreplay Pattern Generator](https://github.com/devreplay/devreplay-pattern-generator)(開発終了): 旧Devreplayの規約を自動生成するスクリプト
+* [DevReplay bot](https://github.com/devreplay/github-app-devreplay): GitHubでDevReplayを利用する[Probot](https://probot.github.io/)実装
 
 ## Linter Maintainer プロジェクト
 
@@ -17,4 +18,4 @@
 * [Source Code Tokenizer](https://github.com/devreplay/source-code-tokenizer): VS Code APIを用いたソースコードトーカナイザー
 * [devreplay.github.io](https://github.com/devreplay/devreplay.github.io): DevReplayの概要について紹介するWebページ
 * [Devreplay Usage Samples](https://github.com/devreplay/devreplay-usage-samples): DevReplayのテスト用リポジトリ
-* .github: DevReplayオーガナイザーの情報を管理
+* [.github](https://github.com/devreplay/.github): DevReplayオーガナイザーの情報を管理
