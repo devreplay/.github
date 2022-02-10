@@ -6,8 +6,10 @@
 
 * [DevReplay](https://github.com/devreplay/devreplay): Generating coding conventions from git history, and Verifing code by using the conventions
 * [Devreplay for VS Code](https://github.com/devreplay/vscode-devreplay): VS Code UI for DevReplay
+* 
 * [Devreplay Language Server](https://github.com/devreplay/devreplay-languageserver): Language Server implementation for DevReplay
 * [Devreplay Pattern Generator](https://github.com/devreplay/devreplay-pattern-generator)(Archived): Generating old DevReplay conventions
+* [DevReplay bot](https://github.com/devreplay/github-app-devreplay): GitHub app [Probot](https://probot.github.io/) implmentation for DevReplay
 
 ## Linter Maintainer Projects
 
