@@ -1,4 +1,4 @@
-# DevReplay構成概要
+# 格納リポジトリ概要
 
 ## DevReplay プロジェクト
 
