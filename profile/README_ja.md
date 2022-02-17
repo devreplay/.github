@@ -11,6 +11,7 @@
 ## Linter Maintainer プロジェクト
 
 * [Linter Maintainer](https://github.com/devreplay/linter-maintainer): ESLint, Pylint, PMDのコーディングルールを自動設定するツール
+  * [linter-maintainer/scripts](https://github.com/devreplay/linter-maintainer/tree/master/scripts): ESLint, PMDのルールを公式リポジトリから収集するスクリプト
 * [Linter Maintainer for VS Code](https://github.com/devreplay/vscode-linter-maintainer): Linter Maintainerの実装をVS Codeで利用できるようにした拡張機能
 
 ## その他
